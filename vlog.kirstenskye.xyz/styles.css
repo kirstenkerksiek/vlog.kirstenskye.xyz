@@ -1,0 +1,37 @@
+.bg-light{
+  background-color: #CCAFC4 !important;
+  font-family: 'Courgette', cursive !important;
+}
+body{
+  background-color: #FDF2FF;
+}
+
+.dropdown-item, .dropdown-menu{
+  background-color: #CCAFC4;
+  color: #4D2757;
+}
+
+a.navbar-brand{
+  background-color: #CCAFC4;
+  color: #4D2757;
+}
+
+.navbar-brand{
+  background-color: #CCAFC4;
+  color: #4D2757;
+}
+
+.nav-item{
+  background-color: #CCAFC4;
+  color: #4D2757;
+}
+
+#navbarNavDropdown{
+  background-color: #CCAFC4;
+  color: #4D2757;
+}
+
+button{
+  background-color: #CCAFC4;
+  color: #4D2757;
+}
