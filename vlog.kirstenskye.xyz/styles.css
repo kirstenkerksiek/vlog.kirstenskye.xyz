@@ -1,6 +1,6 @@
 .bg-light{
   background-color: #CCAFC4 !important;
-  font-family: 'Courgette', cursive !important;
+    font-family: 'Kavivanar', cursive !important;
 }
 body{
   background-color: #FDF2FF;
@@ -31,7 +31,11 @@ a.navbar-brand{
   color: #4D2757;
 }
 
-button{
-  background-color: #CCAFC4;
+.intro-index{
+  padding: 50 px;
+  width 100%;
+  text-align: center;
+  margin: 50px;
   color: #4D2757;
+  font-family: 'Kavivanar', cursive;
 }
