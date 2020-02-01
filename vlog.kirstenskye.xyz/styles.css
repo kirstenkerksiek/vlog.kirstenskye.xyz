@@ -146,18 +146,17 @@ a.navbar-brand{
 }
 
 .fact {
-  margin-top: 0px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 .facts h4{
   font-weight: bold;
   font-family: "Georgia", serif;
-  font-size: 20px;
+  font-size: 23px;
 }
 
 .facts h6{
-    font-family: 'Times', serif;
-    font-size: 18px;
+    font-family: 'Georgia', serif;
+    font-size: 20px;
     padding-top: 0px;
     margin-top: 0px;
     border-top: 0px;
@@ -194,3 +193,34 @@ a.navbar-brand{
 .quote-index ul li {
   font-size: 25px;
 }
+
+/*<div class = "facts">
+  <div class = "fact">
+    <h4> Home State: </h4>
+    <h6> California </h6>
+  </div>
+  <div class = "fact">
+    <h4> Major: </h4>
+    <h6> Nursing </h6>
+  </div>
+  <div class = "fact">
+    <h4> Favorite Color: </h4>
+    <h6> Green </h6>
+  </div>
+  <div class = "fact">
+    <h4> Celebrity crush: </h4>
+    <h6> De'Aaron Fox </h6>
+  </div>
+  <div class = "fact">
+    <h4> Favorite Place in the World: </h4>
+    <h6> Folsom Lake </h6>
+  </div>
+  <div class = "fact">
+    <h4> Biggest Pet Peeve: </h4>
+    <h6> Slow walkers </h6>
+  </div>
+  <div class = "fact">
+    <h4> Random Fact: </h4>
+    <h6> She likes chicken. </h6>
+  </div>
+<div>*/
