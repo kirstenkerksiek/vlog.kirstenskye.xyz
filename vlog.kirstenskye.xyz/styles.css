@@ -145,6 +145,25 @@ a.navbar-brand{
   width: 100%;
 }
 
+.fact {
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+.facts h4{
+  font-weight: bold;
+  font-family: "Georgia", serif;
+  font-size: 20px;
+}
+
+.facts h6{
+    font-family: 'Times', serif;
+    font-size: 18px;
+    padding-top: 0px;
+    margin-top: 0px;
+    border-top: 0px;
+    padding-left: 20px;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
